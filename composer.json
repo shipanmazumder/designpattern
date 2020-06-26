@@ -1,0 +1,16 @@
+{
+    "name": "sm/design",
+    "description": "practice design parttern",
+    "authors": [
+        {
+            "name": "Shipan Mazumder",
+            "email": "shipanmazumder@gmail.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4":{
+    		"SM\\":"src"
+    	}
+    },
+    "require": {}
+}
